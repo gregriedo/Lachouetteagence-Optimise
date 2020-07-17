@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -702,6 +702,8 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    display: flex;
+    flex-direction: row;
 }
 
 h2 {
@@ -744,6 +746,9 @@ h4 {
 }
 
 .portfolio-row {
+    display: flex;
+    flex-direction: row;
+
     margin-bottom: 44px;
     margin-top: 50px;
 }
@@ -886,6 +891,12 @@ h4 {
         padding: 0 20px;
         padding-left: constant(safe-area-inset-left);
         padding-right: constant(safe-area-inset-right);
+    }
+    .social{
+      max-width: 400px;
+      margin: auto auto auto auto;
+      display: flex;
+      flex-direction: row;
     }
 }
 
