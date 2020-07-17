@@ -900,10 +900,10 @@ h4 {
       margin: auto auto auto auto;
       display: flex;
       flex-direction: row;
+      justify-content: center;
+      align-items: center;
     }
-    col-sm-3 {
-      justify-content: space-between;
-    }
+
 }
 
 @media (max-width: 767px) {
