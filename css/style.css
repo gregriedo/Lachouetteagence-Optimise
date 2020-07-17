@@ -705,6 +705,9 @@ p {
     display: flex;
     flex-direction: row;
 }
+col-sm-3 {
+  justify-content: space-between;
+}
 
 h2 {
     font-size: 22px;
@@ -897,6 +900,9 @@ h4 {
       margin: auto auto auto auto;
       display: flex;
       flex-direction: row;
+    }
+    col-sm-3 {
+      justify-content: space-between;
     }
 }
 
