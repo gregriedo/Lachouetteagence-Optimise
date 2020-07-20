@@ -783,7 +783,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #fcf8e3!important;
 }
 
 .btn-atomic-tangerine {
@@ -910,6 +910,8 @@ h4 {
     .page-container {
         overflow-x: hidden;
         position: relative;
+
+
     }
     h1,
     h2,
