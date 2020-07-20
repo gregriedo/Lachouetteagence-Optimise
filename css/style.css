@@ -1021,6 +1021,12 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+    .portfolio-row{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
     .a-block {
         padding: 0 10px;
     }
