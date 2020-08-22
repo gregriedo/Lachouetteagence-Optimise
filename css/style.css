@@ -756,8 +756,7 @@ h4 {
     margin-bottom: 44px;
     margin-top: 50px;
 }
-small{
-  font-weight: bold;
+
 }
 .avatar {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
@@ -789,7 +788,10 @@ small{
     color: #FFFFFF!important;
     font-size: 20px;
 }
-
+small{
+  color: #000000;
+  font-weight: bold;
+}  
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #000000!important;
