@@ -822,19 +822,19 @@ small{
 }
 
 .bg-dots-bg {
-    background-image: url("../img/dots-bg-min.png");
+    background-image: url("../img/dots-bg-min.webp");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("../img/lines-h2-bg.png");
+    background-image: url("../img/lines-h2-bg.webp");
 }
 
 .bg-banniere {
-    background-image: url("../img/la-chouette-agence-banniere-min.png");
+    background-image: url("../img/la-chouette-agence-banniere-min.webp");
 }
 
 .bg-presentation {
-    background-image: url("../img/image-de-presentation-min.png");
+    background-image: url("../img/image-de-presentation-min.webp");
 }
 
 @media (max-width: 1024px) {
